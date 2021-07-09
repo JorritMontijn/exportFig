@@ -1,7 +1,9 @@
 export_fig
 ==========
-
 A toolbox for exporting figures from MATLAB to standard image and document formats nicely.
+
+### Credits note
+This repository was copied from https://github.com/altmany/export_fig to which I made a couple of small modifications. 
 
 ### Overview
 Exporting a figure from MATLAB the way you want it (hopefully the way it looks on screen), can be a real headache for the unitiated, thanks to all the settings that are required, and also due to some eccentricities (a.k.a. features and bugs) of functions such as `print`. The first goal of export_fig is to make transferring a plot from screen to document, just the way you expect (again, assuming that's as it appears on screen), a doddle.
